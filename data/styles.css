@@ -59,6 +59,8 @@
 ._文本段落 {
   text-align:left;
 }
+.line {
+}
 .text_field {
   color:#000000;
   text-align:left;
@@ -69,4 +71,7 @@
 .flow_shape {
 }
 .icon {
+}
+.checkbox {
+  text-align:left;
 }
