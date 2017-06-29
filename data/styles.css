@@ -68,10 +68,19 @@
 .radio_button {
   text-align:left;
 }
+._流程形状 {
+}
 .flow_shape {
 }
 .icon {
 }
 .checkbox {
   text-align:left;
+}
+.shape {
+}
+.image {
+  color:#000000;
+}
+.ellipse {
 }
